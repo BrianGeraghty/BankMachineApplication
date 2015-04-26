@@ -1,0 +1,9 @@
+C:\COMP2614 - C#\Assignments\COMP2614Assign04\BizLogic\bin\Debug\BizLogic.dll
+C:\COMP2614 - C#\Assignments\COMP2614Assign04\BizLogic\bin\Debug\BizLogic.pdb
+C:\COMP2614 - C#\Assignments\COMP2614Assign04\BizLogic\obj\Debug\BizLogic.dll
+C:\COMP2614 - C#\Assignments\COMP2614Assign04\BizLogic\obj\Debug\BizLogic.pdb
+D:\COMP2614 - C#\Assignments\COMP2614Assign04\BizLogic\bin\Debug\BizLogic.dll
+D:\COMP2614 - C#\Assignments\COMP2614Assign04\BizLogic\bin\Debug\BizLogic.pdb
+D:\COMP2614 - C#\Assignments\COMP2614Assign04\BizLogic\obj\Debug\BizLogic.csprojResolveAssemblyReference.cache
+D:\COMP2614 - C#\Assignments\COMP2614Assign04\BizLogic\obj\Debug\BizLogic.dll
+D:\COMP2614 - C#\Assignments\COMP2614Assign04\BizLogic\obj\Debug\BizLogic.pdb
